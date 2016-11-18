@@ -1,6 +1,6 @@
 # solano.yml configuration file for Solano CI https://www.solanolabs.com/
  
-# http://docs.solanolabs.com/ConfiguringLanguage/php/
+# http://docs.solanolabs.com/ConfiguringLanguage/php/ DF
 # Versions should match dev/staging/production environments
 php:
   version: '7.0'
